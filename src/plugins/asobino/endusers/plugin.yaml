@@ -1,0 +1,11 @@
+plugin:
+    name: 'asobino.endusers::lang.plugin.name'
+    description: 'asobino.endusers::lang.plugin.description'
+    author: asobino
+    icon: wn-icon-user
+    replaces: {  }
+navigation:
+    end-users:
+        label: 'End Users'
+        url: /
+        icon: icon-user

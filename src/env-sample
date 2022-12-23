@@ -1,0 +1,7 @@
+APP_NAME="Asobino CMS"
+APP_ENV=dev
+APP_KEY=base64:9qaOeGbyXyW3RtfTQoVDG1kcTXYZbCa0wnFmU+xXP50=
+APP_DEBUG=true
+APP_URL=http://localhost:7000
+APP_LOCALE=ja
+

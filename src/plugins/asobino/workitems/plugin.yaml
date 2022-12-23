@@ -1,0 +1,11 @@
+plugin:
+    name: 'asobino.workitems::lang.plugin.name'
+    description: 'asobino.workitems::lang.plugin.description'
+    author: asobino
+    icon: wn-icon-dropbox
+    replaces: {  }
+navigation:
+    work-items:
+        label: 'Work Items'
+        url: /
+        icon: icon-dropbox

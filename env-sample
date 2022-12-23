@@ -1,0 +1,7 @@
+DB_CONNECTION=mysql
+DB_HOST=db
+DB_PORT=3306
+DB_DATABASE=asobinocms
+DB_USERNAME=asobinocms
+DB_PASSWORD=asobinocms
+LOCALE=ja
